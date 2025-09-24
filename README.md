@@ -1,2 +1,2 @@
 # sql-project
-project on aql
+project on sql
